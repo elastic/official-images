@@ -18,7 +18,7 @@ Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.18
 GitCommit: 92aedffa9f9e73e02987878d89a65316fc9c3714
 
-Tags: 9.0.3
+Tags: 9.0.4
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.0
 GitCommit: 1f8e64284e998ea9f7ca5a9455b3977f451069dc
