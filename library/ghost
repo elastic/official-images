@@ -1,16 +1,26 @@
-# this file is generated via https://github.com/docker-library/ghost/blob/9287844b7657349ba8f4542b0554c2b4f83dbe52/generate-stackbrew-library.sh
+# this file is generated via https://github.com/docker-library/ghost/blob/a4188abc0265aa1486fe38bb5a4ac457180b8ccd/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit),
              Austin Burdine <austin@acburdine.me> (@acburdine)
 GitRepo: https://github.com/docker-library/ghost.git
 
-Tags: 5.127.0, 5.127, 5, latest
+Tags: 6.0.0-rc.0
 Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
-GitCommit: 473df34d83f857cd993c02574e6db4d8ce57fd1b
+GitCommit: 5200f34ed5fcff769a62b3c72f059f4c516142a4
+Directory: 6-rc/debian
+
+Tags: 6.0.0-rc.0-alpine
+Architectures: amd64, arm32v6, arm32v7, arm64v8
+GitCommit: 5200f34ed5fcff769a62b3c72f059f4c516142a4
+Directory: 6-rc/alpine
+
+Tags: 5.130.2, 5.130, 5, latest
+Architectures: amd64, arm32v7, arm64v8, ppc64le, s390x
+GitCommit: 315fd829a562dc5e7c2edf6a2f9dc919a1961478
 Directory: 5/debian
 
-Tags: 5.127.0-alpine, 5.127-alpine, 5-alpine, alpine
+Tags: 5.130.2-alpine, 5.130-alpine, 5-alpine, alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8
-GitCommit: 473df34d83f857cd993c02574e6db4d8ce57fd1b
+GitCommit: 315fd829a562dc5e7c2edf6a2f9dc919a1961478
 Directory: 5/alpine
