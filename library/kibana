@@ -6,19 +6,29 @@ Builder: buildkit
 Tags: 7.17.28
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/7.17
-GitCommit: 2ef7e0a0be5abd21cb38a39c3cce65d5278ebfee
+GitCommit: 28b876f2aaba7bc27d76a1acd55cbc8ada9b5dea
 
-Tags: 8.17.6
+Tags: 8.17.9
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.17
-GitCommit: d7216d19313f88d63f43b52df31da2b4ae6ace3c
+GitCommit: 60c38c02ab0ce7b60f5045d9ae5badf5f9931527
 
-Tags: 8.18.2
+Tags: 8.18.4
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.18
-GitCommit: 1224fffeb3ad5be8a373d52d0906a6c70146b27b
+GitCommit: 879005c2065f0c8d78fa6d978ce161fd38734600
 
-Tags: 9.0.2
+Tags: 8.19.0
+Architectures: amd64, arm64v8
+GitFetch: refs/heads/8.19
+GitCommit: e4c2da0c16babf1795279cb79aa1bf507363b3f6
+
+Tags: 9.0.4
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.0
-GitCommit: 6e12e2f27f2ef93e0e22aa6b8775b77d19fe4271
+GitCommit: 8052f28559ff55a203e9ce99ecb48251bbc67079
+
+Tags: 9.1.1
+Architectures: amd64, arm64v8
+GitFetch: refs/heads/9.1
+GitCommit: 602b1d0e025f8a0f95c755705c5d03240c12e6b3
