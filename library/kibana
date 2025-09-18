@@ -8,20 +8,15 @@ Architectures: amd64, arm64v8
 GitFetch: refs/heads/7.17
 GitCommit: 28b876f2aaba7bc27d76a1acd55cbc8ada9b5dea
 
-Tags: 8.17.10
-Architectures: amd64, arm64v8
-GitFetch: refs/heads/8.17
-GitCommit: 3861498adce22926e852b1bbec340f159147a47f
-
 Tags: 8.18.7
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.18
 GitCommit: ce7db65871f3bbcb091c536150e0bd6848a5af00
 
-Tags: 8.19.3
+Tags: 8.19.4
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.19
-GitCommit: bb9cae645a6e1ab42b03eb2ca3ec6bc51f9cf1aa
+GitCommit: f99392291c86cb616dc6b16a1ef40985c89475c4
 
 Tags: 9.0.7
 Architectures: amd64, arm64v8
