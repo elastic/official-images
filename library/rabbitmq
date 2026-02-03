@@ -5,62 +5,62 @@ Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
 GitRepo: https://github.com/docker-library/rabbitmq.git
 Builder: buildkit
 
-Tags: 4.2.2, 4.2, 4, latest
+Tags: 4.2.3, 4.2, 4, latest
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: 9969adc2edd7a300ab88b3be751d73451ab69680
+GitCommit: a84af41e33e961626ff54497a10a8995a0c7323b
 Directory: 4.2/ubuntu
 
-Tags: 4.2.2-management, 4.2-management, 4-management, management
+Tags: 4.2.3-management, 4.2-management, 4-management, management
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: 5069c6bc8ea1a3c3a3a8a1df3cdb6f3205420ed8
+GitCommit: 5f01091c2f4f05b178d119570427bf82c03ee812
 Directory: 4.2/ubuntu/management
 
-Tags: 4.2.2-alpine, 4.2-alpine, 4-alpine, alpine
+Tags: 4.2.3-alpine, 4.2-alpine, 4-alpine, alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 9969adc2edd7a300ab88b3be751d73451ab69680
+GitCommit: a84af41e33e961626ff54497a10a8995a0c7323b
 Directory: 4.2/alpine
 
-Tags: 4.2.2-management-alpine, 4.2-management-alpine, 4-management-alpine, management-alpine
+Tags: 4.2.3-management-alpine, 4.2-management-alpine, 4-management-alpine, management-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 5069c6bc8ea1a3c3a3a8a1df3cdb6f3205420ed8
+GitCommit: 5f01091c2f4f05b178d119570427bf82c03ee812
 Directory: 4.2/alpine/management
 
-Tags: 4.1.7, 4.1
+Tags: 4.1.8, 4.1
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: 346658ef4b2a0ef93fc055b56eeecf079642df7c
+GitCommit: f98c1de3298c18db684d37a9bb30595cea7de644
 Directory: 4.1/ubuntu
 
-Tags: 4.1.7-management, 4.1-management
+Tags: 4.1.8-management, 4.1-management
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: 83ee68c38da1ab137e794b3477c48ca673f9e393
+GitCommit: 4c163c0e50e1caec9be19a6fc546532f2bb3cfc4
 Directory: 4.1/ubuntu/management
 
-Tags: 4.1.7-alpine, 4.1-alpine
+Tags: 4.1.8-alpine, 4.1-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 346658ef4b2a0ef93fc055b56eeecf079642df7c
+GitCommit: f98c1de3298c18db684d37a9bb30595cea7de644
 Directory: 4.1/alpine
 
-Tags: 4.1.7-management-alpine, 4.1-management-alpine
+Tags: 4.1.8-management-alpine, 4.1-management-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 83ee68c38da1ab137e794b3477c48ca673f9e393
+GitCommit: 4c163c0e50e1caec9be19a6fc546532f2bb3cfc4
 Directory: 4.1/alpine/management
 
 Tags: 4.0.9, 4.0
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: dac149a9a18d6db92160052dc25026071ccaaaed
+GitCommit: 022313824f2bdf21427f3885949b8570ec7d7dc9
 Directory: 4.0/ubuntu
 
 Tags: 4.0.9-management, 4.0-management
 Architectures: amd64, arm32v7, arm64v8, ppc64le, riscv64, s390x
-GitCommit: 461ef0276f1382394d342615575aa7d61f2c7ea9
+GitCommit: 0cafaafbaefa869ed69543c0b9cc4327a4767577
 Directory: 4.0/ubuntu/management
 
 Tags: 4.0.9-alpine, 4.0-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: f5aa704ed471c25717c83ac89567431ee3adb641
+GitCommit: 022313824f2bdf21427f3885949b8570ec7d7dc9
 Directory: 4.0/alpine
 
 Tags: 4.0.9-management-alpine, 4.0-management-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 461ef0276f1382394d342615575aa7d61f2c7ea9
+GitCommit: 0cafaafbaefa869ed69543c0b9cc4327a4767577
 Directory: 4.0/alpine/management
