@@ -13,7 +13,7 @@ Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.3
 GitCommit: 82d52284ccbfe049efc893d110b35ccde03235fa
 
-Tags: 9.4.0
+Tags: 9.4.2
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.4
-GitCommit: 40351d59b2e635f4d132c488ce5cc0e0962013d9
+GitCommit: 6245ba340217b06d8c51bd1221245e90914604bb
