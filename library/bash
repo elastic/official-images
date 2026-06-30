@@ -3,14 +3,14 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-bash.git
 
-Tags: devel-20260520, devel, devel-20260520-alpine3.23, devel-alpine3.23
+Tags: devel-20260608, devel, devel-20260608-alpine3.24, devel-alpine3.24
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: e157a98783eb5c6681659c33a066e3809f986d2f
+GitCommit: c457fcaaf0520f8e2ec3d6ef058447df7f83d5df
 Directory: devel
 
-Tags: 5.3.9, 5.3, 5, latest, 5.3.9-alpine3.23, 5.3-alpine3.23, 5-alpine3.23, alpine3.23
+Tags: 5.3.15, 5.3, 5, latest, 5.3.15-alpine3.24, 5.3-alpine3.24, 5-alpine3.24, alpine3.24
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: fa474a35327e1ee3bb5976dbeab6c574a765173e
+GitCommit: 2b927ed0d7d1da8a5ed0cd5fc90213065d502401
 Directory: 5.3
 
 Tags: 5.2.37, 5.2, 5.2.37-alpine3.22, 5.2-alpine3.22
