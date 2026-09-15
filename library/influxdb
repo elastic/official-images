@@ -4,18 +4,26 @@ Maintainers: Brandon Pfeifer <bpfeifer@influxdata.com> (@bnpfeife),
              Praveenkumar Hemakumar <pkumar@influxdata.com> (@praveen-influx),
              Trevor Hilton <thilton@influxdata.com> (@hiltontj)
 GitRepo: https://github.com/influxdata/influxdata-docker
-GitCommit: 2f9040b54411d1fae3239a9c034d1ea023e43eaf
+GitCommit: d57185392eb04c44d606ef628bf58b1737123ede
 
-Tags: 1.13-data, 1.13.0-data
+Tags: 1.13, 1.13.1
+Architectures: amd64, arm64v8
+Directory: influxdb/1.13
+
+Tags: 1.13-alpine, 1.13.1-alpine
+Architectures: amd64, arm64v8
+Directory: influxdb/1.13/alpine
+
+Tags: 1.13-data, 1.13.1-data
 Directory: influxdb/1.13/data
 
-Tags: 1.13-data-alpine, 1.13.0-data-alpine
+Tags: 1.13-data-alpine, 1.13.1-data-alpine
 Directory: influxdb/1.13/data/alpine
 
-Tags: 1.13-meta, 1.13.0-meta
+Tags: 1.13-meta, 1.13.1-meta
 Directory: influxdb/1.13/meta
 
-Tags: 1.13-meta-alpine, 1.13.0-meta-alpine
+Tags: 1.13-meta-alpine, 1.13.1-meta-alpine
 Directory: influxdb/1.13/meta/alpine
 
 Tags: 1.12, 1.12.4
@@ -74,26 +82,26 @@ Tags: 2-alpine, 2.9-alpine, 2.9.1-alpine, alpine
 Architectures: amd64, arm64v8
 Directory: influxdb/2.9/alpine
 
-Tags: 3.9-core, 3.9.11-core
+Tags: 3.9-core, 3.9.13-core
 Architectures: amd64, arm64v8
 Directory: influxdb/3.9-core
 
-Tags: 3.9-enterprise, 3.9.11-enterprise
+Tags: 3.9-enterprise, 3.9.13-enterprise
 Architectures: amd64, arm64v8
 Directory: influxdb/3.9-enterprise
 
-Tags: 3.10-core, 3.10.5-core
+Tags: 3.10-core, 3.10.6-core
 Architectures: amd64, arm64v8
 Directory: influxdb/3.10-core
 
-Tags: 3.10-enterprise, 3.10.5-enterprise
+Tags: 3.10-enterprise, 3.10.6-enterprise
 Architectures: amd64, arm64v8
 Directory: influxdb/3.10-enterprise
 
-Tags: 3-core, 3.11-core, 3.11.2-core, core
+Tags: 3-core, 3.11-core, 3.11.4-core, core
 Architectures: amd64, arm64v8
 Directory: influxdb/3.11-core
 
-Tags: 3-enterprise, 3.11-enterprise, 3.11.3-enterprise, enterprise
+Tags: 3-enterprise, 3.11-enterprise, 3.11.4-enterprise, enterprise
 Architectures: amd64, arm64v8
 Directory: influxdb/3.11-enterprise
