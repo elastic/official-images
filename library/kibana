@@ -3,17 +3,17 @@ GitRepo: https://github.com/elastic/dockerfiles.git
 Directory: kibana
 Builder: buildkit
 
-Tags: 8.19.21
+Tags: 8.19.24
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/8.19
-GitCommit: ed80d28be98db297818205087153ff8ef01440f2
+GitCommit: 88f1884c51766119c4781510816ac29363cc380f
 
-Tags: 9.4.6
+Tags: 9.4.8
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.4
-GitCommit: 25fdea1109a231cedf9d1d3cf78bbb7fce488561
+GitCommit: 8eec196323810ee2b48f94058ce633665c540e1a
 
-Tags: 9.5.2
+Tags: 9.5.5
 Architectures: amd64, arm64v8
 GitFetch: refs/heads/9.5
-GitCommit: 2f483686931c1a423f1a7a3efe79d2aa58bc8a42
+GitCommit: 379b7f13fe4a5ce76a8ec81c8ab45ebc9f9968ed
