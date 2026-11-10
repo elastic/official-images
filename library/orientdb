@@ -1,17 +1,17 @@
 
 Maintainers: Tglman <tglman@tglman.com> (@tglman)
 
-Tags: 3.2.56, 3.2, latest
+Tags: 3.2.58, 3.2, latest
 Architectures: amd64, arm64v8
 GitRepo: https://github.com/orientechnologies/orientdb-docker.git
-GitCommit: fefb9ca6006a1d103f13772b00baec945e7e19bd 
-Directory: release/3.2.x/3.2.56
+GitCommit: d6bb8c08d5823790bd8b9cb0fdfc98dbc5eec93c
+Directory: release/3.2.x/3.2.58
 
-Tags: 3.2.56-tp3, 3.2-tp3
+Tags: 3.2.58-tp3, 3.2-tp3
 Architectures: amd64, arm64v8
 GitRepo: https://github.com/orientechnologies/orientdb-docker.git
-GitCommit: fefb9ca6006a1d103f13772b00baec945e7e19bd
-Directory: release/3.2.x/3.2.56-tp3
+GitCommit: d6bb8c08d5823790bd8b9cb0fdfc98dbc5eec93c
+Directory: release/3.2.x/3.2.58-tp3
 
 Tags: 3.1.20, 3.1
 GitRepo: https://github.com/orientechnologies/orientdb-docker.git
