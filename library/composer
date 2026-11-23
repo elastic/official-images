@@ -4,14 +4,14 @@ Maintainers: Composer (@composer), Rob Bast (@alcohol)
 GitRepo: https://github.com/composer/docker.git
 Builder: buildkit
 
-Tags: 2.11.1, 2.11, 2, latest
+Tags: 2.11.2, 2.11, 2, latest
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 GitFetch: refs/heads/main
-GitCommit: 2af913cf6c428737e8eec2a3e9297d12d96eeac6
+GitCommit: ded2360a3b8c8db60395a2ecf89e08fecf755abc
 Directory: latest
 
-Tags: 2.2.31, 2.2
+Tags: 2.2.32, 2.2
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 GitFetch: refs/heads/main
-GitCommit: 99577f09a117f5085849ab63297cd9a5fc67fa89
+GitCommit: ded2360a3b8c8db60395a2ecf89e08fecf755abc
 Directory: 2.2
